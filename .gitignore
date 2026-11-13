@@ -1,0 +1,8 @@
+# Earlier models and local source snapshots are not part of this poster.
+/models/
+/*.tar.gz
+
+.DS_Store
+node_modules/
+.env
+.env.*
